@@ -13,8 +13,6 @@ const App = () => {
     return (
         <div className="App">
             <h1>Ecommerce Exercise</h1>
-            <h2>Dev</h2>
-            <h3>Starklord</h3>
             <ItemListContainer />
             <NavBar />
         </div>
